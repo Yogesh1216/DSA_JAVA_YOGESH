@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MinValueInArray_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MissingNumber_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Palindrom_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RemoveEvenIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ResizeArray_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArray_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SecondMax_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ZerosAtEnd_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircularLinkedList/CLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/InsertNodeInSortedLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/MiddleNodeOfSll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/NthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/RemoveDuplicatesFromSortedLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/ReverseSSL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pyLMV1Te5Aog3gfI1NTxe5xqo8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayUtil.executor": "Run",
+    "Application.CLL.executor": "Run",
+    "Application.DLL.executor": "Run",
+    "Application.DoublyLinkedList.executor": "Run",
+    "Application.InsertNodeInSortedLL.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MiddleNodeOfSll.executor": "Run",
+    "Application.MinValueInArray_3.executor": "Run",
+    "Application.MissingNumber_7.executor": "Run",
+    "Application.NthNodeFromEnd.executor": "Run",
+    "Application.Palindrom_8.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.RemoveDuplicatesFromSortedLL.executor": "Run",
+    "Application.RemoveEvenIntegers.executor": "Run",
+    "Application.ResizeArray_6.executor": "Run",
+    "Application.ReverseArray_2.executor": "Run",
+    "Application.ReverseSSL.executor": "Run",
+    "Application.SecondMax_4.executor": "Run",
+    "Application.SingleLinkedList.executor": "Run",
+    "Application.ZerosAtEnd_5.executor": "Run",
+    "Application.stack.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/courses/DSA_Java/untitled/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="" />
+      <created>1733733323066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733733323066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/RemoveEvenIntegers.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

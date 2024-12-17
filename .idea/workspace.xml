@@ -4,35 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MinValueInArray_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MissingNumber_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Palindrom_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/RemoveEvenIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ResizeArray_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArray_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SecondMax_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ZerosAtEnd_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircularLinkedList/CLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/InsertNodeInSortedLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/MiddleNodeOfSll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/NthNodeFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/RemoveDuplicatesFromSortedLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/ReverseSSL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/StackArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Yogesh1216"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Yogesh1216/DSA_JAVA1.git",
+    "accountId": "599682d2-b3c7-45e1-849f-b503ad07ab5b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -62,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArrayUtil.executor": "Run",
     "Application.CLL.executor": "Run",
     "Application.DLL.executor": "Run",
@@ -99,7 +89,21 @@
       <option name="presentableId" value="Default" />
       <updated>1733733323066</updated>
     </task>
+    <task id="LOCAL-00001" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1734371026756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734371026756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="DSA" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,6 +1,6 @@
 package Tree;
 
-public class BST {
+public class BinarySearchTree {
 
     Node root;
 
@@ -16,7 +16,14 @@ public class BST {
         }
     }
 
-    public static void main(String[] args) {
+    public void insert(int data){
+        Node n = new Node(data);
 
+    }
+
+
+    public static void main(String[] args) {
+        BinarySearchTree bst = new BinarySearchTree();
+        bst.root = new Node(20);
     }
 }

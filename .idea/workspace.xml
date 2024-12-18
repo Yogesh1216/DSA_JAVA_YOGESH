@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +28,12 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "Yogesh1216"
+    }
+  ],
   "lastFilter": {
-    "state": "OPEN",
     "assignee": "Yogesh1216"
   }
 }]]></component>
@@ -56,6 +61,7 @@
     "Application.CLL.executor": "Run",
     "Application.DLL.executor": "Run",
     "Application.DoublyLinkedList.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.InsertNodeInSortedLL.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MiddleNodeOfSll.executor": "Run",
@@ -63,6 +69,7 @@
     "Application.MissingNumber_7.executor": "Run",
     "Application.NthNodeFromEnd.executor": "Run",
     "Application.Palindrom_8.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
     "Application.Program.executor": "Run",
     "Application.RemoveDuplicatesFromSortedLL.executor": "Run",
     "Application.RemoveEvenIntegers.executor": "Run",
@@ -97,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734371026756</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1734459065177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734459065177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

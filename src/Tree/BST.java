@@ -31,9 +31,9 @@ public class BST {
             return new Node(data);
         }else{
             if(data<root.item){
-                rinsertData(root.left,data);
+                root.left = rinsertData(root.left,data);
             }else if(data>root.item){
-                rinsertData(root.right,data);
+                root.right = rinsertData(root.right,data);
             }
         }
         return root;

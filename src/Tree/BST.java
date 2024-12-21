@@ -39,6 +39,31 @@ public class BST {
         return root;
     }
 
+    public void searchNode(int data){
+        Node root1 = search(root,data);
+        System.out.println(root1.item);
+    }
+
+    public Node search(Node root,int data){
+        if(root==null || root.item == data){
+            return root;
+        }else{
+            if(root.item>data){
+                return search(root.left,data);
+            }else{
+                return search(root.right,data);
+            }
+        }
+    }
+
+    // find min value item node:
+
+
+    // delete node - 1) node with no child , 2)node with 1 child , 3) node with 2 child.
+
+
+
+
     public static void main(String[] args) {
         BST bst = new BST();
         bst.root = new Node(1);
@@ -56,5 +81,8 @@ public class BST {
         bst.insertData(8);
         System.out.println("preOrderTraversing");
         bst.preOrderTraversing(bst.root);
+
+        System.out.println("search node");
+        bst.searchNode(8);
     }
 }

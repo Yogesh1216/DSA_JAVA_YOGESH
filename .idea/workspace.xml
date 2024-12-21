@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA" />
+    <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Day1/Day1_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BST.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +60,7 @@
     "Application.BinarySearchTree.executor": "Run",
     "Application.CLL.executor": "Run",
     "Application.DLL.executor": "Run",
+    "Application.Day1_TwoSum.executor": "Debug",
     "Application.DoublyLinkedList.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.InsertNodeInSortedLL.executor": "Run",
@@ -132,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734717777197</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1734718630098</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734718630098</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +160,21 @@
           <url>file://$PROJECT_DIR$/src/Array/RemoveEvenIntegers.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/BST.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise/Day1/Day1_TwoSum.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise/Day1/Day1_TwoSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

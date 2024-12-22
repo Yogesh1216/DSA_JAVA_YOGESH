@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/Exercise/Day1/Day1_TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayListCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Top5QuesArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArrayCRUD.executor": "Run",
+    "Application.ArrayListCRUD.executor": "Run",
+    "Application.ArrayPatterns.executor": "Run",
     "Application.ArrayUtil.executor": "Run",
     "Application.BST.executor": "Run",
     "Application.BinarySearchTree.executor": "Run",
@@ -79,6 +84,7 @@
     "Application.ReverseSSL.executor": "Run",
     "Application.SecondMax_4.executor": "Run",
     "Application.SingleLinkedList.executor": "Run",
+    "Application.Top5QuesArray.executor": "Run",
     "Application.ZerosAtEnd_5.executor": "Run",
     "Application.stack.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -145,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734718630098</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1734798164800</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734798164811</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

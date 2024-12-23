@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Arrays;
 
-public class ArrayPatterns {
+public class ArrayPatterns_TwoPointer {
     /*
     Common Patterns :
     1) Two Pointer Technique -

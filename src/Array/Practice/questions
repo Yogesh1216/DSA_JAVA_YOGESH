@@ -1,0 +1,78 @@
+
+### **Level 1: Basics of Arrays**
+1. **Find the Largest and Smallest Elements in an Array**
+   - Input: [3, 1, 4, 1, 5]
+   - Output: Largest = 5, Smallest = 1
+
+2. **Reverse an Array**
+   - Input: [1, 2, 3, 4, 5]
+   - Output: [5, 4, 3, 2, 1]
+
+3. **Check if an Array is Sorted**
+   - Input: [1, 2, 3, 4, 5]
+   - Output: True
+   - Input: [5, 3, 2, 4, 1]
+   - Output: False
+
+4. **Find the Sum of All Elements in an Array**
+   - Input: [10, 20, 30]
+   - Output: 60
+
+5. **Find the Second Largest Element**
+   - Input: [10, 20, 30, 40]
+   - Output: 30
+
+---
+
+### **Level 2: Intermediate Operations**
+6. **Remove Duplicates from a Sorted Array**
+   - Input: [1, 1, 2, 2, 3, 3, 4]
+   - Output: [1, 2, 3, 4]
+
+7. **Rotate an Array by K Positions**
+   - Input: [1, 2, 3, 4, 5], K = 2
+   - Output: [4, 5, 1, 2, 3]
+
+8. **Find the Missing Number in a Range (1 to N)**
+   - Input: [1, 2, 3, 5] (N = 5)
+   - Output: 4
+
+9. **Count the Frequency of Each Element in an Array**
+   - Input: [1, 2, 2, 3, 3, 3]
+   - Output: {1: 1, 2: 2, 3: 3}
+
+10. **Merge Two Sorted Arrays**
+    - Input: [1, 3, 5] and [2, 4, 6]
+    - Output: [1, 2, 3, 4, 5, 6]
+
+---
+
+### **Level 3: Problem Solving with Arrays**
+11. **Find the Intersection of Two Arrays**
+    - Input: [1, 2, 2, 3] and [2, 3, 4]
+    - Output: [2, 3]
+
+12. **Find the Pair of Elements That Add Up to a Given Sum**
+    - Input: [1, 2, 3, 4], Sum = 5
+    - Output: [(1, 4), (2, 3)]
+
+13. **Move All Zeros to the End**
+    - Input: [0, 1, 0, 3, 12]
+    - Output: [1, 3, 12, 0, 0]
+
+14. **Find the Maximum Subarray Sum (Kadane's Algorithm)**
+    - Input: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+    - Output: 6 (Subarray: [4, -1, 2, 1])
+
+15. **Find the Majority Element in an Array (Appears More Than n/2 Times)**
+    - Input: [3, 3, 4, 2, 3, 3, 3]
+    - Output: 3
+
+---
+
+### **How to Practice?**
+1. Start solving them in order.
+2. Use **brute force solutions first**, then optimize.
+3. Understand edge cases (e.g., empty arrays, negative values, large inputs).
+4. Test your code with multiple inputs to ensure correctness.
+

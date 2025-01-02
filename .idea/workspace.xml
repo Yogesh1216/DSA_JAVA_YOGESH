@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/Array/PrefixSumExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SlidingWindow_Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/ArrayPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ArrayPatterns_TwoPointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +30,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "assignee": "Yogesh1216"
+      &quot;assignee&quot;: &quot;Yogesh1216&quot;
     }
   ],
-  "lastFilter": {
-    "assignee": "Yogesh1216"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;Yogesh1216&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yogesh1216/DSA_JAVA1.git",
-    "accountId": "599682d2-b3c7-45e1-849f-b503ad07ab5b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yogesh1216/DSA_JAVA1.git&quot;,
+    &quot;accountId&quot;: &quot;599682d2-b3c7-45e1-849f-b503ad07ab5b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -77,6 +81,11 @@
     "Application.PrefixSumExamples.executor": "Run",
     "Application.PrintNumbers.executor": "Run",
     "Application.Program.executor": "Run",
+    "Application.Ques1.executor": "Run",
+    "Application.Ques2.executor": "Run",
+    "Application.Ques3.executor": "Run",
+    "Application.Ques4.executor": "Run",
+    "Application.Ques5.executor": "Run",
     "Application.RemoveDuplicatesFromSortedLL.executor": "Run",
     "Application.RemoveEvenIntegers.executor": "Run",
     "Application.ResizeArray_6.executor": "Run",
@@ -167,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734873457015</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1734966413345</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734966413345</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,11 +199,6 @@
           <url>file://$PROJECT_DIR$/src/Array/RemoveEvenIntegers.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Tree/BST.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Exercise/Day1/Day1_TwoSum.java</url>

@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Practice/questions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Practice/Ques7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Strings/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Strings/questions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Practice/Ques5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Practice/Ques5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +84,8 @@
     "Application.Ques3.executor": "Run",
     "Application.Ques4.executor": "Run",
     "Application.Ques5.executor": "Run",
+    "Application.Ques6.executor": "Run",
+    "Application.Ques7.executor": "Run",
     "Application.RemoveDuplicatesFromSortedLL.executor": "Run",
     "Application.RemoveEvenIntegers.executor": "Run",
     "Application.ResizeArray_6.executor": "Run",
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734966413345</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1735821953480</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735821953480</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

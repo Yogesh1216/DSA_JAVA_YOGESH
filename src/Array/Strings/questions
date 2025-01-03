@@ -1,0 +1,87 @@
+
+### **Beginner-Level Questions (1–5)**
+
+1. **Reverse a String**
+   Write a program to reverse a given string.
+   Input: `"hello"`
+   Output: `"olleh"`
+
+2. **Check if a String is a Palindrome**
+   Determine if a given string reads the same backward as forward.
+   Input: `"radar"`
+   Output: `true`
+
+3. **Count the Number of Vowels in a String**
+   Count the vowels (a, e, i, o, u) in a given string.
+   Input: `"hello world"`
+   Output: `3`
+
+4. **Find the First Non-Repeating Character**
+   Find the first character in a string that does not repeat.
+   Input: `"swiss"`
+   Output: `"w"`
+
+5. **Convert a String to Upper/Lower Case**
+   Write a program to convert a string to uppercase and lowercase.
+   Input: `"Hello"`
+   Output: `"HELLO", "hello"`
+
+---
+
+### **Intermediate-Level Questions (6–10)**
+
+6. **Check if Two Strings are Anagrams**
+   Check if two strings contain the same characters in the same frequency.
+   Input: `"listen", "silent"`
+   Output: `true`
+
+7. **Count the Frequency of Each Character**
+   Write a program to count how many times each character appears in a string.
+   Input: `"mississippi"`
+   Output: `{m:1, i:4, s:4, p:2}`
+
+8. **Check if a String Contains Only Digits**
+   Determine if a string consists only of numeric characters.
+   Input: `"12345"`
+   Output: `true`
+
+9. **Find the Longest Word in a Sentence**
+   Find the longest word in a given sentence.
+   Input: `"The quick brown fox"`
+   Output: `"quick"`
+
+10. **Remove Duplicate Characters from a String**
+    Remove all duplicate characters from a given string.
+    Input: `"programming"`
+    Output: `"progamin"`
+
+---
+
+### **Advanced-Level Questions (11–15)**
+
+11. **Find All Permutations of a String**
+    Generate all permutations of a given string.
+    Input: `"abc"`
+    Output: `["abc", "acb", "bac", "bca", "cab", "cba"]`
+
+12. **Find the Longest Palindromic Substring**
+    Find the longest substring in a string that is a palindrome.
+    Input: `"babad"`
+    Output: `"bab" or "aba"`
+
+13. **Check if a String is a Rotation of Another String**
+    Check if one string is a rotation of another.
+    Input: `"abcde", "cdeab"`
+    Output: `true`
+
+14. **Find the Most Frequent Word in a Sentence**
+    Identify the word that appears most frequently in a sentence.
+    Input: `"the cat and the dog"`
+    Output: `"the"`
+
+15. **Find All Substrings of a String**
+    Generate all possible substrings of a given string.
+    Input: `"abc"`
+    Output: `["a", "b", "c", "ab", "bc", "abc"]`
+
+---

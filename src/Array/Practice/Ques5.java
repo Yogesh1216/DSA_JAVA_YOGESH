@@ -12,10 +12,10 @@ public class Ques5 {
         if(arr==null || arr.length<=2){
             return Integer.MIN_VALUE;
         }
-        int largest = arr[0];
-        int secLargest = arr[0];
+        int largest = Integer.MIN_VALUE;
+        int secLargest = Integer.MIN_VALUE;
 
-        for(int i=1;i<arr.length;i++){
+        for(int i=0;i<arr.length;i++){
             if(largest<arr[i]){
                 secLargest=largest;
                 largest=arr[i];
@@ -36,6 +36,9 @@ public class Ques5 {
 
     public static void main(String[] args) {
         int[] arr = {10, 20, 30, 40,40,35};
+//        int[] arr = {};
+//        int[] arr = {10};
+//        int[] arr = {10,10,10};
         int result = secondLargest(arr);
         if (result == Integer.MIN_VALUE) {
             System.out.println("Second largest element not found.");

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Exercise1/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Practice/Ques6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Practice/Ques6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Practice/Ques7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Practice/Ques7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +72,7 @@
     "Application.MissingNumber_7.executor": "Run",
     "Application.NthNodeFromEnd.executor": "Run",
     "Application.Palindrom_8.executor": "Run",
+    "Application.Person.executor": "Run",
     "Application.PrefixSumExamples.executor": "Run",
     "Application.PrintNumbers.executor": "Run",
     "Application.Program.executor": "Run",
@@ -208,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735928553781</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1736012376066</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736012376066</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

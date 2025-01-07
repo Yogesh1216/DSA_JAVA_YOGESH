@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Exercise1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeadFirstJava/ch1/BottleSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeadFirstJava/ch1/ChooseAWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,9 @@
     "Application.ArrayUtil.executor": "Run",
     "Application.BST.executor": "Run",
     "Application.BinarySearchTree.executor": "Run",
+    "Application.BottleSong.executor": "Run",
     "Application.CLL.executor": "Run",
+    "Application.ChooseAWord.executor": "Run",
     "Application.DLL.executor": "Run",
     "Application.Day1_TwoSum.executor": "Debug",
     "Application.DoublyLinkedList.executor": "Run",
@@ -216,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736012376066</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1736186538247</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736186538249</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Ques1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Ques2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Ques3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Ques7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736273126071</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1736443906987</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736443906987</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

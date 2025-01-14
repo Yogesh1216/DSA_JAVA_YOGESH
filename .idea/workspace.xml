@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27ec15-8b3b-4f04-a0b7-bf33fb345511" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Ques7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeadFirstJava/ch1/ch2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Extra1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Ques7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/Ques7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList/Practice/questions" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +69,7 @@
     "Application.DLL.executor": "Run",
     "Application.Day1_TwoSum.executor": "Debug",
     "Application.DoublyLinkedList.executor": "Run",
+    "Application.Extra1.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.InsertNodeInSortedLL.executor": "Run",
     "Application.Main.executor": "Run",
@@ -95,6 +99,7 @@
     "Application.ReverseSSL.executor": "Run",
     "Application.SecondMax_4.executor": "Run",
     "Application.SingleLinkedList.executor": "Run",
+    "Application.TestShape.executor": "Run",
     "Application.Top5QuesArray.executor": "Run",
     "Application.ZerosAtEnd_5.executor": "Run",
     "Application.stack.executor": "Run",
@@ -262,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736443906987</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1736617306813</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736617306813</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

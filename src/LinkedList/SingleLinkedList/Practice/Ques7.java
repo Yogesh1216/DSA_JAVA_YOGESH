@@ -24,7 +24,7 @@ public class Ques7 {
             if(head!=null){
                 Node temp = head;
                 while(temp!=null){
-                    System.out.println(temp.item);
+                    System.out.print(temp.item+" ");
                     temp=temp.next;
                 }
             }
@@ -50,12 +50,28 @@ public class Ques7 {
 
             int targetIndex = length-n+1;
             temp = head;
-            for(int i =0;i<targetIndex;i++){
+            for(int i =1;i<targetIndex;i++){
                 temp = temp.next;
             }
             return temp.item;
         }
 
+        /*
+             way2:
+             two pointer technique
+         */
+        public int lastnthNode2(int n){
+            Node fast = head;
+            Node slow = head;
+            for(int i=1;i<n;i++){
+                fast = fast.next;
+            }
+            while(fast.next!=null){
+                slow = slow.next;
+                fast = fast.next;
+            }
+            return slow.item;
+        }
     }
 
 
@@ -72,6 +88,10 @@ public class Ques7 {
         four.next = five;
         sll.printLinkedList();
         int result = sll.lastNthNode(2);
+        System.out.println();
         System.out.println(result);
+
+        int result1 = sll.lastnthNode2(3);
+        System.out.println(result1);
     }
 }

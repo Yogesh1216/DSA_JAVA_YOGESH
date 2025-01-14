@@ -58,3 +58,7 @@
 2. **Code & Debug**: Write the code by hand, debug errors, and analyze the time complexity.
 3. **Optimize Solutions**: Once you solve a problem, look for ways to improve space and time efficiency.
 4. **LeetCode and GeeksforGeeks**: These platforms offer problem statements, hints, and discussions.
+
+
+Extra:
+1) delete nth node from end , with one traversal?
